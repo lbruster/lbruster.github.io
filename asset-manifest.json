@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lbruster.github.io/static/css/main.805939d6.css",
-    "main.js": "/lbruster.github.io/static/js/main.95fa6161.js",
+    "main.js": "/lbruster.github.io/static/js/main.70b4cb4a.js",
     "static/js/787.fb771931.chunk.js": "/lbruster.github.io/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/lbruster.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/lbruster.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -21,19 +21,19 @@
     "static/media/meter2.svg": "/lbruster.github.io/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
     "static/media/meter1.svg": "/lbruster.github.io/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/lbruster.github.io/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/lbruster.github.io/static/media/logo.57a7bb2f627e4ea6848da08d85ec0a83.svg",
     "static/media/nav-icon3.svg": "/lbruster.github.io/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/lbruster.github.io/index.html",
     "static/media/nav-icon1.svg": "/lbruster.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/logo.svg": "/lbruster.github.io/static/media/logo.57a7bb2f627e4ea6848da08d85ec0a83.svg",
     "static/media/arrow2.svg": "/lbruster.github.io/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/lbruster.github.io/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/lbruster.github.io/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.805939d6.css.map": "/lbruster.github.io/static/css/main.805939d6.css.map",
-    "main.95fa6161.js.map": "/lbruster.github.io/static/js/main.95fa6161.js.map",
+    "main.70b4cb4a.js.map": "/lbruster.github.io/static/js/main.70b4cb4a.js.map",
     "787.fb771931.chunk.js.map": "/lbruster.github.io/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.805939d6.css",
-    "static/js/main.95fa6161.js"
+    "static/js/main.70b4cb4a.js"
   ]
 }
